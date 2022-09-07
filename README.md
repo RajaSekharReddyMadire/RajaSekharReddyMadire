@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**RajaSekharReddyMadire/RajaSekharReddyMadire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**RajaSekharReddyMadire/RajaSekharReddyMadire** 
 
 - 🔭 I’m currently studying in Nortwest Missouti State Uiniversity.
 - 🌱 I’m currently persuing my Masters in Applied computer Sceince
